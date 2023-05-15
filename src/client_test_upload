@@ -1,0 +1,6 @@
+#!/bin/sh
+python3 upload.py -H localhost -p 8888 -n test1 -s client_files -v
+python3 upload.py -H localhost -p 8888 -n test2 -s client_files -v
+python3 upload.py -H localhost -p 8888 -n test3 -s client_files -v
+python3 upload.py -H localhost -p 8888 -n test4 -s client_files -v
+python3 upload.py -H localhost -p 8888 -n test5 -s client_files -v

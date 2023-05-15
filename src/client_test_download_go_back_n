@@ -1,0 +1,6 @@
+#!/bin/sh
+python3 download-go-back-n.py -H localhost -p 8888 -n test1 -d client_files -v
+python3 download-go-back-n.py -H localhost -p 8888 -n test2 -d client_files -v
+python3 download-go-back-n.py -H localhost -p 8888 -n test3 -d client_files -v
+python3 download-go-back-n.py -H localhost -p 8888 -n test4 -d client_files -v
+python3 download-go-back-n.py -H localhost -p 8888 -n test5 -d client_files -v
